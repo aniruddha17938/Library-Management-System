@@ -1,2 +1,2 @@
 # Library-Management-System
-Python Project 4
+A dynamic and responsive Web Application that allows users to list and manage their books and library records. 
